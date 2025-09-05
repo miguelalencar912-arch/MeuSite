@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(0, 0, 0);
+    color: white;
+
+}
+body a{
+    color: white;
+}
+#center{
+    justify-content: center;
+    align-items: center;
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace,Arial, Helvetica, sans-serif;
+}
